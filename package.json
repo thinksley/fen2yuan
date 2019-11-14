@@ -1,0 +1,20 @@
+{
+  "name": "fen2yuan",
+  "version": "1.0.2",
+  "email": "939480781@qq.com",
+  "description": "用于转化分到人民币元",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "分转化到人民币元",
+    "分转元",
+    "fen2yuan",
+    "fentoyuan",
+    "人民币转化单位",
+    "人民币千分符格式化"
+  ],
+  "author": "thinksley",
+  "license": "ISC"
+}
