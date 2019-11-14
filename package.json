@@ -1,6 +1,6 @@
 {
   "name": "fen2yuan",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "email": "939480781@qq.com",
   "description": "用于转化分到人民币元",
   "main": "index.js",
